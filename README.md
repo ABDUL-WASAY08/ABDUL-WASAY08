@@ -1,5 +1,5 @@
 <body>
-  <img align="center"alt="coding" width="1200" height="300" src="cover.png">
+  <img align="center"alt="coding" width="1200" height="300" src="Black and Orange Live Streaming YouTube Thumbnail (1).png">
 
 <h1 align="center">Hi 👋, I'm ABDUL WASAY</h1>
 <h3 align="center">A passionate student learning to solve real life problems.</h3>
