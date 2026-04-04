@@ -1,29 +1,63 @@
-<body>
-  <img align="center"alt="coding" width="1200" height="300" src="Black and Orange Live Streaming YouTube Thumbnail (1).png">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Abdul+Wasay;MERN+Stack+Developer;AI+Enthusiast;CS+Student+@+COMSATS" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm ABDUL WASAY</h1>
-<h3 align="center">A passionate student learning to solve real life problems.</h3>
-
-- 🌱 I’m currently learning **java object oriented language , WEB DEVELOPING, DATABASE , NETWORKING, APP DEVELOPER**
-
-- 💬 Ask me about **C - LANGUAGE**
-
-- 📫 How to reach me **tahawasay1@gmail.com**
-
-- ⚡ Fun fact **developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdul wasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul wasay" height="30" width="40" /></a>
-<a href="https://instagram.com/wasay_official008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasay_official008" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDUL-WASAY08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-wasay08&show_icons=true&locale=en&layout=compact" alt="abdul-wasay08" /></p>
+### 💫 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wasay08&show_icons=true&locale=en" alt="abdul-wasay08" /></p>
+I am a **Full-Stack Developer** specializing in building secure, AI-powered systems. I have a passion for high-fidelity, futuristic UI/UX and spend my time exploring the intersection of web performance and modern aesthetics.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wasay08&" alt="abdul-wasay08" /></p>
-</body>
+- 🔭 **Currently:** Architecting scalable applications with Node.js and Llama 3.
+- 🌱 **Learning:** Advanced AI integration and specialized Web Performance.
+- ⚡ **Fun Fact:** I believe a clean Windows environment is the secret to 2x productivity.
+- ⌨️ **Preference:** Tabs > Spaces.
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools/AI** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Llama3](https://img.shields.io/badge/-Llama_3-000000?style=flat-square&logo=meta&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDUL-WASAY08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDUL-WASAY08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/abdul-wasay-0a75283a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ABDUL-WASAY08">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/wasa.y2327/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABDUL-WASAY08&color=blueviolet&style=flat-square" alt="Visitor Count" />
+</div>
