@@ -3,9 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm ABDUL WASAY</h1>
 <h3 align="center">A passionate student learning to solve real life problems.</h3>
-<img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-wasay08&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-wasay08" /> </p>
 
 - 🌱 I’m currently learning **java object oriented language , WEB DEVELOPING, DATABASE , NETWORKING, APP DEVELOPER**
 
