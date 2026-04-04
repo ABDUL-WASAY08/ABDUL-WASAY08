@@ -26,14 +26,44 @@ I am a **Full-Stack Developer** focused on building secure, AI-powered ecosystem
 ---
 
 ### 🏆 Top Projects
+<br />
+<div align="center">
+<img src="https://img.shields.io/badge/-The%20Codebase%20Architect-000000?style=for-the-badge&logo=github&logoColor=00d4ff" />
+<br />
+🤖 <b>AI-Powered Git Intelligence</b>
+<br />
+<i>An advanced extension that leverages AI to parse entire repositories, providing deep architectural insights and automated code reviews.</i>
+<br />
+<a href="https://the-codebase-architect-frontend.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00d4ff?style=flat-square&logoColor=black" alt="Live Demo" />
+</a>
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **🤖 The Codebase Architect** | AI-powered Git extension that analyzes entire repositories to provide architectural insights and code reviews. | [🚀 Live Demo](https://the-codebase-architect-frontend.vercel.app/) |
-| **📄 AI Resume Builder** | Modern ATS-optimized resume generator using Llama 3 to transform raw data into professional career documents. | [✨ Live Demo](https://resume-builder-frontend-rosy-two.vercel.app/) |
-| **🚗 CarRental System** | A full-stack rental ecosystem featuring real-time availability, secure booking, and a futuristic dashboard UI. | [🏎️ Live Demo](https://ecomerace-rent-car-frontend.vercel.app/) |
+<br /><br />
 
----
+<img src="https://img.shields.io/badge/-AI%20Resume%20Builder-000000?style=for-the-badge&logo=llama&logoColor=61DAFB" />
+<br />
+📄 <b>ATS-Optimized Career Intelligence</b>
+<br />
+<i>Modern generator using Llama 3 to transform raw experience into high-impact, professional career documents instantly.</i>
+<br />
+<a href="https://resume-builder-frontend-rosy-two.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/✨_Live_Demo-61DAFB?style=flat-square&logoColor=black" alt="Live Demo" />
+</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/-CarRental%20System-000000?style=for-the-badge&logo=enterprise&logoColor=FFD700" />
+<br />
+🚗 <b>Next-Gen Mobility Ecosystem</b>
+<br />
+<i>A full-stack rental platform featuring real-time availability tracking, secure payments, and a futuristic dashboard.</i>
+<br />
+<a href="https://ecomerace-rent-car-frontend.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🏎️_Live_Demo-FFD700?style=flat-square&logoColor=black" alt="Live Demo" />
+</a>
+
+</div>
+
 
 ### 🚀 Tech Stack
 
