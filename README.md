@@ -25,6 +25,16 @@ I am a **Full-Stack Developer** focused on building secure, AI-powered ecosystem
 
 ---
 
+### 🏆 Top Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **🤖 The Codebase Architect** | AI-powered Git extension that analyzes entire repositories to provide architectural insights and code reviews. | [🚀 Live Demo](https://the-codebase-architect-frontend.vercel.app/) |
+| **📄 AI Resume Builder** | Modern ATS-optimized resume generator using Llama 3 to transform raw data into professional career documents. | [✨ Live Demo](https://resume-builder-frontend-rosy-two.vercel.app/) |
+| **🚗 CarRental System** | A full-stack rental ecosystem featuring real-time availability, secure booking, and a futuristic dashboard UI. | [🏎️ Live Demo](https://ecomerace-rent-car-frontend.vercel.app/) |
+
+---
+
 ### 🚀 Tech Stack
 
 <div align="center">
@@ -41,22 +51,21 @@ I am a **Full-Stack Developer** focused on building secure, AI-powered ecosystem
 
 ### 📊 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wasay08&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wasay08&theme=dark&hide_border=true" alt="Streak" />
 </div>
-
 
 ---
 
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/abdul-wasay-0a75283a4/ target="_blank">
+  <a href="https://linkedin.com/in/abdul-wasay-0a75283a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ABDUL-WASAY08">
+  <a href="https://github.com/ABDUL-WASAY08" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/wasa.y2327/ target="_blank">
+  <a href="https://www.instagram.com/wasa.y2327/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
